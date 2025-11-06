@@ -137,11 +137,3 @@ V8SjvX4r/deKniWctvCi5JccgfUwXkVzFAk=
 ```
 
 ---
-
-### Contributors
-
-| Contributor | GitHub Profile | Contributions |
-|---|---|---|
-| Niall Douglas | [ned14](https://github.com/ned14) | 1538 |
-| Andrzej Krzemienski | [akrzemi1](https://github.com/akrzemi1) | 45 |
-| cstratopoulos | [cstratopoulos](https://
